@@ -1,0 +1,14 @@
+{
+  "datosDelUsuario": {
+    "usuario": "pushingit",
+    "contraseña": "123456!"
+  },
+
+  "tareas": {
+    "tarea1": "Comer el desayuno",
+    "tarea2": "Bañarse con agua fria",
+    "tarea3": "Dormir en la sala",
+    "tarea4": "Estudiar cypress",
+    "tarea5": "Hacer una comida saludable"
+  }
+}
